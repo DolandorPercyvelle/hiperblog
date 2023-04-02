@@ -6,14 +6,12 @@ Anita Platzi es una persona que contribuye a este proyecto
 
 Experimento 1
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
+
 Experimento 2
 
 Mater 1
->>>>>>> 1adb113 (Exp 2)
 
 Hoy nos enforcaremos en su vida laboral
